@@ -11,3 +11,5 @@ A live demo on how to:
 - use `git reset --hard`
 
 This is better.
+
+# Camille disagrees.
