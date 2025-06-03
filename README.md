@@ -1,4 +1,4 @@
-# git in time
+# GIT in time
 
 A live demo on how to:
 
@@ -10,4 +10,4 @@ A live demo on how to:
 - use `git revert`
 - use `git reset --hard`
 
-# hey this is me making mischief
+This is better.
