@@ -9,3 +9,5 @@ A live demo on how to:
 - use `git checkout`
 - use `git revert`
 - use `git reset --hard`
+
+# hey this is me making mischief
